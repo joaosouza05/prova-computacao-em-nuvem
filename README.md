@@ -9,16 +9,16 @@ CONTAINER ID   IMAGE         COMMAND                  CREATED          STATUS   
 
  A resposta do comando curl http:/localhost:8081: 
  
- <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8">
-<title>Loja</title>
-</head>
-<body>
-<h1>Loja no ar</h1>
-</body>
-</html>
+ !DOCTYPE html
+html lang="pt-BR"
+head
+meta charset="UTF-8"
+title>Loja</title
+/head
+body
+h1>Loja no ar</h1
+/body
+/html
 
 A diferença entre a imagem nginx:alpine e o conteiner loja? Para que serviu o mapeamento 8081:80?
 
